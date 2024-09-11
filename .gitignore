@@ -1,0 +1,5 @@
+.DS_Store
+**/renders/
+blendcache*/
+*.blend1
+*.exr
